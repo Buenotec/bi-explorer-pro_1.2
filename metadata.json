@@ -1,0 +1,8 @@
+{
+  "name": "Remix: BI Explorer Pro_1.2",
+  "description": "A premium multi-tenant SaaS platform for Power BI Embedded and Public link management, featuring governance, white-labeling, and AI-driven insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
